@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+}
+
+.maindiv{
+    text-align: center;
+    width: 100%;
+    background-color: antiquewhite;
+}
+h1{
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
